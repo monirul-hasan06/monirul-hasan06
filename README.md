@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+### 📌 About Me
 
 I'm a **Computer Science & Engineering** student based in **Dhaka, Bangladesh**. I build useful web products with clean, modern interfaces, focusing on practical web applications, responsive designs, authentication, and full-stack systems.
 
