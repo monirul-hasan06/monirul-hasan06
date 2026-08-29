@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://monirul-hasan-mithu.pages.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=CSE+Student+%26+Web+Developer;Building+Full-Stack+Websites%26+Fascinated+at+App+Development;JavaScript+%7C+TypeScript+%7C+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=CSE+Student+%26+Web+Developer;Building+Full-Stack+Websites+%26+Fascinated+at+App+Development;JavaScript+%7C+TypeScript+%7C+Next.js" alt="Typing SVG" />
   </a>
 </p>
 
