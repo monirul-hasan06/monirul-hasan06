@@ -12,6 +12,8 @@
 
 I'm a **Computer Science & Engineering** student based in **Dhaka, Bangladesh**. I build useful web products with clean, modern interfaces, focusing on practical web applications, responsive designs, authentication, and full-stack systems.
 
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" style="visibility: visible; max-width: 100%;">
+
 - 🔭 **Currently working on:** Full-stack web products, responsive web applications, and interactive user interfaces. Also trying to make applications.
 - 🌱 **Currently learning:** Advanced JavaScript, TypeScript, and System Design.
 - 🤝 **Collaborating with:** Developer Team at [TechCanvix](https://www.facebook.com/techcanvix)
