@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://monirul-hasan-mithu.pages.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=CSE+Student+%26+Web+Developer;Building+Full-Stack+Websites+%26+Fascinated+at+App+Development;JavaScript+%7C+TypeScript+%7C+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=CSE+Student+%26+Web+Developer;Building+Full-Stack+Websites;Fascinated+at+App+Development;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 
 I'm a **Computer Science & Engineering** student based in **Dhaka, Bangladesh**. I build useful web products with clean, modern interfaces, focusing on practical web applications, responsive designs, authentication, and full-stack systems.
 
-- 🔭 **Currently working on:** Full-stack web products, responsive web applications, and interactive user interfaces.
+- 🔭 **Currently working on:** Full-stack web products, responsive web applications, and interactive user interfaces. Also trying to make applications.
 - 🌱 **Currently learning:** Advanced JavaScript, TypeScript, and System Design.
 - 🤝 **Collaborating with:** Developer Team at [TechCanvix](https://www.facebook.com/techcanvix)
 - 📫 **How to reach me:** [dev.get.in.touch@gmail.com](mailto:dev.get.in.touch@gmail.com)
