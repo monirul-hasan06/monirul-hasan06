@@ -20,7 +20,7 @@ I'm a **Computer Science & Engineering** student based in **Dhaka, Bangladesh**.
 - 📫 **How to reach me:** [dev.get.in.touch@gmail.com](mailto:dev.get.in.touch@gmail.com)
 - 🌐 **Portfolio Websites:** [monirul-hasan-mithu.pages.dev](https://monirul-hasan-mithu.pages.dev/) | [me-at-portfolio-web.vercel.app](https://me-at-portfolio-web.vercel.app/)
 
-### 🔗 Connect with Me
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="17"> Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/monirul-hasan06/" target="_blank">
