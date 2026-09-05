@@ -50,7 +50,7 @@ I'm a **Computer Science & Engineering** student based in **Dhaka, Bangladesh**.
 </p>
 
 <html>
-        <h2>Recent Work</h2>
+        <h2>🛠️ Recent Work</h2>
         <h3>StudyLens<h3>
         <p>
             StudyLens is a app that turns scanned notes, diagrams, and textbook pages into "instant explanations" and "quiz practice" also user can "save those as a pdf".
