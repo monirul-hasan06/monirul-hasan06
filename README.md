@@ -49,11 +49,11 @@ I'm a **Computer Science & Engineering** student based in **Dhaka, Bangladesh**.
   </a>
 </p>
 
-<html>
+<!-- <html>
         <h2>🛠️ Recent Work</h2>
         <h3>StudyLens<h3>
         <p>
             StudyLens is a app that turns scanned notes, diagrams, and textbook pages into "instant explanations" and "quiz practice" also user can "save those as a pdf".
         </p>
         <a href="https://github.com/monirul-hasan06/StudyLens-Releases/releases/download/v1.0.0/app-release.apk">Download the app</a>
-</html>
+</html> -->
